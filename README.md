@@ -2,6 +2,10 @@
 
 This is a portfolio website for a web developer, Javier Castro. The website showcases his skills, work experience, education, and projects.
 
+<img src="https://src.casttro.mx/git/banner.png" width="70%" alt="Project portrait">
+
+
+
 ## **Technologies Used**
 
 - HTML
